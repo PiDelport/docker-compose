@@ -1,6 +1,6 @@
 # docker-compose
 
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/pidelport/docker-cloud.svg)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/pidelport/docker-compose.svg)
 
 Docker base image + docker-compose
 
