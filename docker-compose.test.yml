@@ -1,0 +1,4 @@
+# Smoke test that docker-compose runs.
+sut:
+  build: .
+  command: docker-compose version
