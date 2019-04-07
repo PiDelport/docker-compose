@@ -1,4 +1,7 @@
 # docker-compose
+
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/pidelport/docker-cloud.svg)
+
 Docker base image + docker-compose
 
 This uses the official Docker images as base, and adds the official docker-compose binary.
